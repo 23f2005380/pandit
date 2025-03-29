@@ -10,7 +10,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center pt-16 overflow-hidden" id="home">
       <div className="absolute inset-0 -z-10">
         <Image
-          src="/im.jpg?height=1080&width=1920"
+          src="/placeholder.svg?height=1080&width=1920"
           alt="Background"
           fill
           className="object-cover opacity-10"
@@ -47,7 +47,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="relative h-[400px] rounded-lg overflow-hidden shadow-xl"
           >
-            <Image src="/placeholder.svg?height=800&width=600" alt="Pandit Ji" fill className="object-cover" />
+            <Image src="/im.jpg?height=800&width=600" alt="Pandit Ji" fill className="object-cover" />
           </motion.div>
         </div>
       </div>
