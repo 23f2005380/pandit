@@ -29,7 +29,7 @@ export default function Experience() {
             className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
           >
             <Image
-              src="/placeholder.svg?height=1000&width=800"
+              src="/pooja.png?height=1000&width=800"
               alt="Pandit Ji performing ceremony"
               fill
               className="object-cover"
